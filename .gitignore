@@ -1,0 +1,10 @@
+# Ignore Python environment folder
+env/
+
+# Ignore Streamlit configuration folder
+.streamlit/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
